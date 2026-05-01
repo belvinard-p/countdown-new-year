@@ -228,4 +228,4 @@ Fullstack Developer & Data Engineer
 - Portfolio: [belvinard-resume.netlify.app](https://belvinard-resume.netlify.app/)
 - GitHub: [github.com/belvinard-p](https://github.com/belvinard-p)
 - LinkedIn: [linkedin.com/in/belvinard-pouadjeu-19a734377](https://www.linkedin.com/in/belvinard-pouadjeu-19a734377)
-- Email: belvinardpouadjeu@gmail.com
+- Email: belvinard97@gmail.com
